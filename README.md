@@ -43,13 +43,14 @@ Hi, I'm a Full Stack Web Developer I specialize in Node.js and Express for the b
 
 ## 📊 Stats
 
-<div style="display:flex; flex-wrap: wrap">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirushaph&layout=compact&theme=tokyonight&hide_border=true)
-
-![Hirusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirushaph&show_icons=true&theme=tokyonight&hide_border=true)
+<div style="display: flex;">
+    <p style="flex: 1;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirushaph&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hirushaph" />
+    </p>
+    <p style="flex: 1;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=hirushaph&show_icons=true&locale=en&theme=radical&hide_border=true" alt="hirushaph" />
+    </p>
 </div>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirushaph&theme=highcontrast&hide_border=true" alt="hirushaph" /></p>
 
