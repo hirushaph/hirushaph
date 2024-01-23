@@ -1,4 +1,39 @@
-- 👋 Hi, I’m @hirushaph
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on Web Development
+![MasterHead](https://i.ibb.co/rkNN0LY/pixel-jeff-matrix-s.gif)
+
+## 👋 Hello, I’m Hirusha Prabhanath
+
+`👩‍💻 Fullstack Web Developer | Blogger`
+
+---
+
+### 🌱 About me
+
+Hi, I'm a Full Stack Web Developer I specialize in Node.js and Express for the backend, and React.js for the frontend. Currently diving into Next.js for even better web experiences. I'm also passionate about exploring the realms of web3 and AI.
+
+---
+
+### 🎯 Skills
+
+<!-- Frontend -->
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+<!-- Backend -->
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+---
+
+<!-- Github Stats -->
+
+<div style="display:flex; flex-wrap: wrap">
+
+![Hirusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirushaph&show_icons=true&theme=tokyonight&hide_border)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirushaph&layout=compact&theme=tokyonight&hide_border)
+
+</div>
+
+---
+
+##### 💞 Thank you for Visiting.
