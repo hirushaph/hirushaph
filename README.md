@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hirushaph
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning NextJS
+- 💞️ I’m looking to collaborate on Web Development
