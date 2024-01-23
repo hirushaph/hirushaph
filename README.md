@@ -1,18 +1,18 @@
 ![MasterHead](https://i.ibb.co/rkNN0LY/pixel-jeff-matrix-s.gif)
 
-## 👋 Hello, I’m Hirusha Prabhanath
+# 👋 Hello, I’m Hirusha Prabhanath
 
 `👩‍💻 Fullstack Web Developer | Blogger`
 
 ---
 
-### 🌱 About me
+## 🌱 About me
 
 Hi, I'm a Full Stack Web Developer I specialize in Node.js and Express for the backend, and React.js for the frontend. Currently diving into Next.js for even better web experiences. I'm also passionate about exploring the realms of web3 and AI.
 
 ---
 
-### 🎯 Skills
+## 🎯 Skills
 
 <!-- Frontend -->
 
@@ -36,4 +36,4 @@ Hi, I'm a Full Stack Web Developer I specialize in Node.js and Express for the b
 
 ---
 
-##### 💞 Thank you for Visiting.
+### 💞 Thank you for Visiting.
