@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/znSZqDC/pixelmin-optimized.gif)
+# ![MasterHead](https://i.ibb.co/znSZqDC/pixelmin-optimized.gif)
 
 # 👋 Hello, I’m Hirusha Prabhanath
 
