@@ -1,7 +1,8 @@
 <!-- ![MasterHead](https://i.ibb.co/znSZqDC/pixelmin-optimized.gif) -->
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20To%20My%20Profile&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&animation=twinkling)
+<!-- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20To%20My%20Profile&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&animation=twinkling) -->
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hola!&fontAlign=80&fontAlignY=40&color=gradient)
 
 # 👋 Hello, I’m Hirusha Prabhanath
 
