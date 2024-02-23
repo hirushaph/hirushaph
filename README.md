@@ -10,6 +10,10 @@
 
 <br>
 
+![ProfileViews](https://komarev.com/ghpvc/?username=hirushaph)
+
+<br>
+
 - 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **NextJS**
